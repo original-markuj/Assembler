@@ -1,0 +1,11 @@
+git:
+
+init -b <name> - initiates git with selected name in folder
+
+add . - adds all files from folder
+
+commit -m "placeholder" - commits to local git
+
+remote add <name> <https://github.com/original-markuj/Assembler.git example> - gives access to github repo
+
+push -u <name of github repo> <local git name> - publish from local repo to github
